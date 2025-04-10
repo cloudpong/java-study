@@ -8,5 +8,13 @@ public class _06_Costant {
 
         final double PI = 3.141592;
         final String  DATE_OF_BIRTH = "2001-12-31";
+
+        /* 절대 변하지 않는 상수는 대문자로
+        `final` : 절대 변하지 않는 문장 앞에 포함
+         
+        대문자로 적는 예시
+        `final String CODE = “KR”`
+        `final double PI = 3.141592;`
+        `final String  DATE_OF_BIRTH = "2001-12-31";` */
     }
 }
