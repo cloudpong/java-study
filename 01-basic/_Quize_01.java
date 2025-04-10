@@ -13,12 +13,5 @@ public class _Quize_01 {
         System.out.println("약 " + time + "분 후 도착");
         double distance = 1.2;
         System.out.println("남은 거리 " + distance + "km");
-
-        /*문제 풀이
-        String busNo = "상암08";
-
-        int minute = 3;
-
-        double distance = 1.2;*/
     }
 }
