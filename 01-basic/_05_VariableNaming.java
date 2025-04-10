@@ -31,14 +31,6 @@ public class _05_VariableNaming {
 
         프로그램의 흐름을 위해 사용되는 경우 등 = 한 글자만 사용하기도 함
         `int i = 0;`
-        `String s= “”;`
-
-        절대 변하지 않는 상수는 대문자로
-        `final` : 절대 변하지 않는 문장 앞에 포함
-         
-        대문자로 적는 예시
-        `final String CODE = “KR”`
-        `final double PI = 3.141592;`
-        `final String  DATE_OF_BIRTH = "2001-12-31";` */
+        `String s= “”;` */
     }
 }
