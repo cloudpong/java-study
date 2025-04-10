@@ -1,0 +1,6 @@
+* psvm, 혹은 main
+자동으로 main 영역 만들기
+`public static void main(String[] args) {}`
+
+* sout
+`System.*out*.println();`
