@@ -31,6 +31,6 @@ public class _05_VariableNaming {
 
         프로그램의 흐름을 위해 사용되는 경우 등 = 한 글자만 사용하기도 함
         `int i = 0;`
-        `String s= “”;` */
+        `String s= “”;`  */
     }
 }
